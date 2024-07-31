@@ -1,0 +1,32 @@
+.SkillBlock{
+    margin-top: 20px;
+    width: 95%;
+    display: flex;
+    gap: 35px;
+}
+
+.SkillCard{
+    width: 200px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgb(29,29,29);
+}
+
+.CardTitle{
+    font-size: 20px;
+    color: #999999;
+}
+
+.SkillTechnology{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    gap: 12px;
+}
+
+.SkillName{
+    padding: 5px;
+    width: fit-content;
+    border: 0.1px solid #2eebaa;
+    border-radius: 5px;
+}

@@ -1,0 +1,86 @@
+.ProjectDetailPage{
+    width: 100%;
+    display: flex;
+    color: white;
+    height: 99vh;
+    overflow-y: auto;
+}
+.LeftSideProjectDetail{
+    flex: 0.3;
+    height: 99vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.RightSideProjectDetail{
+    flex: 0.7;
+    height: 99vh;
+}
+
+.ProjectDetailRightSide{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+    align-items: start;
+}
+
+.BacktoHome{
+    display: flex;
+    justify-content: center;
+    width: fit-content;
+    align-items: center;
+    margin-bottom: 10px;
+    color: #2eebaa;
+}
+
+.ArrowBackIcon{
+    margin-right: 5px;
+}
+
+.Title{
+    font-size: 30px;
+    color: #2eebaa;
+    letter-spacing: 1px;
+}
+
+.SpanColor{
+    color: #2eebaa;
+    letter-spacing: 1px;
+}
+
+.ProjectImageDetail{
+    width: 95%;
+    border: 1px solid;
+}
+
+.ProjectImg{
+    width: 100%;
+    margin-top: 35px;
+    border-radius: 10px;
+}
+
+.ProjectLink{
+    display: flex;
+    justify-content: center;
+    width: fit-content;
+    color: darkblue;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.ProjectImg:hover{
+    cursor: initial;
+}
+
+.ProjectLinkSpan{
+    color: #2eebaa;
+    margin-right: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.GitHubIcon{
+    margin-right: 10px;
+}

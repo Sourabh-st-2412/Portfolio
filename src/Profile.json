@@ -1,0 +1,37 @@
+{
+    "skills":[
+        {
+            "SkillTitle" : "Frontend",
+            "Skill" : ["HTML","CSS","JavaScript","React JS"]
+        },
+        {
+            "SkillTitle" : "Backend",
+            "Skill" : ["Java","C#","C","Python","JSP"]
+        },
+        {
+            "SkillTitle" : "Database",
+            "Skill" : ["MySQL","AWS Cloud"]
+        },
+        {
+            "SkillTitle" : "New Technologies",
+            "Skill" : ["Cloud","GitHub","Machine Learning","Data Science"]
+        }
+    ],
+    "project":[
+        {
+            "id" : "0",
+            "name" : "Online Restaurant Booking System",
+            "imageLink" : "https://res.cloudinary.com/dqccny1b4/image/upload/v1721978250/y214nzetf4goz1kxqd5q.png"
+        },
+        {
+            "id" : "1",
+            "name" : "Assistant Chatbot",
+            "imageLink" : "https://res.cloudinary.com/dqccny1b4/image/upload/v1721978249/scnrndx5fma3eamq386e.png"
+        },
+        {
+            "id" : "2",
+            "name" : "Green Groccers System",
+            "imageLink" : "https://res.cloudinary.com/dqccny1b4/image/upload/v1721978250/gxsgajynbbkuhcww9guc.png"
+        }
+    ]
+}

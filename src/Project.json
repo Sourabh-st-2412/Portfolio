@@ -1,0 +1,150 @@
+{
+    "projects": [
+        {
+            "name": "Online Restaurant Booking System",
+            "desc": "I have Developed this beautiful website to be helpful for both end-user and the owner. This project is basically designed for a Restaurant by keeping all the website requirements of a Restaurant (Hotel Nandanvan) located at Sangliwadi on Sangli-Islampur Highway owned by Mr. Adarsh Yadav. This was my first hands-on project Developed during Final-Year of BCS Degree. This project has been very helpful for me, it let me acquire knowledge for the Project Development Phases.<br />This Project is built using <b>Html, Css, Javascript</b> for the frontend and <b>My-SQL</b> and <b>Java</b> for the Backend.<br /><br /> It is a robust system for booking and ordering food, enabling users to check restaurant availability, book tables and conference halls, and order from the displayed menu. • Implemented secure authentication methods to ensure data integrity and privacy, utilizing password authentication for various user logins. • Focused on continuous optimization to enhance user experience and streamline data management processes. • Utilized user interface design, database management, and API integration skills to deliver a seamless and efficient platform.",
+            "mainImg": "https://res.cloudinary.com/dqccny1b4/image/upload/v1721978250/y214nzetf4goz1kxqd5q.png",
+            "projectLink": "https://github.com/Sourabh-st-2412/restaurant-booking",
+            "technology": [
+                {
+                    "SkillTitle": "Technologies",
+                    "Skill": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "Java",
+                        "MySQL",
+                        "Git"
+                    ]
+                }
+            ],
+            "Software": [
+                {
+                    "SkillTitle": "Softwares",
+                    "Skill": [
+                        "NetBeans",
+                        "MySQL Workbench",
+                        "Git",
+                        "VS Code",
+                        "Glass Fish Server"
+                    ]
+                }
+            ],
+            "Reference": [
+                {
+                    "SkillTitle": "References",
+                    "Skill": [
+                        "Google",
+                        "Youtube",
+                        "W3school",
+                        "Java-t-point"
+                    ]
+                }
+            ],
+            "imgLink0": "https://res.cloudinary.com/dqccny1b4/image/upload/v1721978250/y214nzetf4goz1kxqd5q.png",
+            "imgLink1": "https://res.cloudinary.com/dqccny1b4/image/upload/v1722069811/fyzwddcvablv24ynvohe.png",
+            "imgLink2": "https://res.cloudinary.com/dqccny1b4/image/upload/v1722069805/yx1zyrkcnuhslgewecwe.png",
+            "imgLink3": "https://res.cloudinary.com/dqccny1b4/image/upload/v1722069793/mns4fuzbld45ah3jsr8l.png",
+            "imgLink4": "https://res.cloudinary.com/dqccny1b4/image/upload/v1722069811/fyzwddcvablv24ynvohe.png",
+            "imgLink5": "https://res.cloudinary.com/dqccny1b4/image/upload/v1722069784/szx3dx7wfk3lrl1gcccr.png",
+            "imgLink6": "https://res.cloudinary.com/dqccny1b4/image/upload/v1722069782/xcvvf4lugu2un0p8oh59.png"
+        },
+        {
+            "name": "Assistant Chatbot",
+            "desc": "I have worked on this website in a team and this chatbot was developed by keeping the chat-gpt and google gemini in focus. This project is designed similar to the Google's Gemini by studying all the website requirements for a chatbot. This hands-on project was Developed during First-Year of MCA Degree. This was a mini project and needed to be developed with less time span. This project has been very helpful for me, it let me acquire knowledge for the Project Development Phases.<br /> This Project is built using <b>Html, Css, Javascript, and Php</b>.<br/><br/> We have used Google Gemini's free to use API to generate responses to the Queries. • Developed a chatbot as part of a team during a mini-project using the open-source Google Gemini API to generate accurate and context-aware responses to user queries. • Responsible for gathering requirements, and information, and managing comprehensive documentation. • Conducted testing in diverse environments to ensure seamless interaction and reliable performance. • Collaborated on development tasks, demonstrating strong teamwork and technical proficiency in natural language processing.",
+            "mainImg": "https://res.cloudinary.com/dqccny1b4/image/upload/v1721978249/scnrndx5fma3eamq386e.png",
+            "projectLink": "https://github.com/Sourabh-st-2412/restaurant-booking",
+            "technology": [
+                {
+                    "SkillTitle": "Technologies",
+                    "Skill": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "Php"
+                    ]
+                }
+            ],
+            "Software": [
+                {
+                    "SkillTitle": "Softwares",
+                    "Skill": [
+                        "VS Code",
+                        "Xamp Server"
+                    ]
+                }
+            ],
+            "Reference": [
+                {
+                    "SkillTitle": "References",
+                    "Skill": [
+                        "Google",
+                        "Youtube",
+                        "W3school",
+                        "Chat gpt",
+                        "Google Gemini",
+                        "W3-Layouts",
+                        "Open Ai"
+                    ]
+                }
+            ],
+            "imgLink1": "https://res.cloudinary.com/dqccny1b4/image/upload/v1722070509/uibr41q8gvwnsg3pls0z.jpg",
+            "imgLink2": "https://res.cloudinary.com/dqccny1b4/image/upload/v1722070509/tn1sn8owowwjjof1yinh.jpg",
+            "imgLink3": "https://res.cloudinary.com/dqccny1b4/image/upload/v1722070510/md9zglh8viofbuwrdahf.jpg"
+        },
+        {
+            "name": "Green Groccers System",
+            "desc": "Green Groccers is a comprehensive e-commerce platform designed to bridge the gap between vegetable vendors and consumers. By leveraging the power of technology, we aim to create a seamless online marketplace where customers can conveniently purchase fresh produce directly from local vendors. This project was Developed during vacations of BCS Degree as a part of practice. This project has been very helpful for me, it let me acquire knowledge for the Project Development Phases.<br />This Project is built using <b>Html, Css, Javascript</b> for the frontend and <b>My-SQL</b> and <b>Java</b> for the Backend.<br /><br /> It is a robust system for booking and ordering food, enabling users to check restaurant availability, book tables and conference halls, and order from the displayed menu. • Implemented secure authentication methods to ensure data integrity and privacy, utilizing password authentication for various user logins. • Focused on continuous optimization to enhance user experience and streamline data management processes. • With a focus on quality, freshness, and convenience, Green Grocers empowers vendors to expand their reach and increase sales, while offering customers a wide selection of locally sourced produce at their fingertips.",
+            "mainImg": "https://res.cloudinary.com/dqccny1b4/image/upload/v1721978250/gxsgajynbbkuhcww9guc.png",
+            "projectLink": "https://github.com/Sourabh-st-2412/restaurant-booking",
+            "technology": [
+                {
+                    "SkillTitle": "Technologies",
+                    "Skill": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "Java",
+                        "MySQL",
+                        "Git"
+                    ],
+                    "SkillTitle": "Softwares",
+                    "Skill": [
+                        "NetBeans",
+                        "MySQL Workbench",
+                        "Git",
+                        "VS Code"
+                    ]
+                }
+            ],
+            "Software": [
+                {
+                    "SkillTitle": "Softwares",
+                    "Skill": [
+                        "NetBeans",
+                        "MySQL Workbench",
+                        "Git",
+                        "VS Code"
+                    ]
+                }
+            ],
+            "Reference": [
+                {
+                    "SkillTitle": "References",
+                    "Skill": [
+                        "Google",
+                        "Youtube",
+                        "W3school",
+                        "Java-t-point"
+                    ]
+                }
+            ],
+            "imgLink1": "https://res.cloudinary.com/dqccny1b4/image/upload/v1722070244/oz30hhyqhnmwp2frbdx7.png",
+            "imgLink2": "https://res.cloudinary.com/dqccny1b4/image/upload/v1722070242/rio1yiv5x1wwc6uvuko8.png",
+            "imgLink3": "https://res.cloudinary.com/dqccny1b4/image/upload/v1722070244/kfjhyt7dx0vj6tax0zpc.png",
+            "imgLink4": "https://res.cloudinary.com/dqccny1b4/image/upload/v1722070269/l5edctmqfnxmq1a9scv6.png",
+            "imgLink5": "https://res.cloudinary.com/dqccny1b4/image/upload/v1722070245/tg0mx7noskqa927ve0uf.png",
+            "imgLink6": "https://res.cloudinary.com/dqccny1b4/image/upload/v1722070243/pccyvevirkkkzb6lyx8c.png"
+        }
+    ]
+}
